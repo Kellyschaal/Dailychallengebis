@@ -1,8 +1,8 @@
 /* style2.css */
 
 body{
-  background: #FEFEFE;
-  color: #FEFEFE; 
+  background: pink;
+  color: #41A3C0; 
   font-size: 16px;
   font-family: 'Source Sans Pro', sans-serif;
   margin:0;
@@ -16,40 +16,40 @@ nav{
 
 h1{
   font-family: 'Roboto', sans-serif;
-  color:  #41A3C0; 
+  color: white; 
   font-weight: bolder;
   font-size: 2em;
 }
 
 h2 {
   font-family: 'Roboto', sans-serif;
-  color: #FEAA00;
+  color: white;
   font-weight: lighter;
   font-size: 1.5em;
 }
 
 p{
-  color: #FEFEFE;
+  color: white;
 }
 
 a { 
-  color: #29324B;
+  color: white;
 }
 
 a:hover {
   text-decoration: none;
-  color: rgb(225, 0, 152);
+  color: white;
 }
 
 #logo{
-  color: rgb(225, 0, 152);
+  color: white;
   font-size: 35px;
   font-family: 'Pacifico', cursive;
 }
 
 /* Mis en forme de la baseline */
 #baseline{
-  background-color: #41A3C0;
+  background-color: white;
   text-align: center;
   background-size: cover;
   padding: 150px;
@@ -76,7 +76,7 @@ a:hover {
 
 
 
-.feature{
+.feature,.defi{
   border: 1px solid #F2F2F2;
   margin: 15px;
   padding: 15px 0;
@@ -104,9 +104,20 @@ nav ul {
 }
 
 #logo{
-  color: #fff;
+  color: white;
   font-size: 35px;
   font-family: 'Pacifico', cursive;
   float: left;
   margin-left: 50px;
+}
+
+#welcome{
+  background-color: #41A3C0;
+  text-align: center;
+  padding: 50px;
+  color: white;
+}
+
+#welcome h4{
+ font-size: 50px;
 }
