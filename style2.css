@@ -1,7 +1,7 @@
 /* style2.css */
 
 body{
-  background: pink;
+  background: grey;
   color: #41A3C0; 
   font-size: 16px;
   font-family: 'Source Sans Pro', sans-serif;
@@ -15,15 +15,15 @@ nav{
 } 
 
 h1{
-  font-family: 'Roboto', sans-serif;
-  color: white; 
+  font-family: 'Archivo+Black', sans-serif;
+  color: red; 
   font-weight: bolder;
-  font-size: 2em;
+  font-size: 5em;
 }
 
 h2 {
-  font-family: 'Roboto', sans-serif;
-  color: white;
+  font-family: 'Archivo+Black', sans-serif;
+  color: red;
   font-weight: lighter;
   font-size: 1.5em;
 }
@@ -38,27 +38,31 @@ a {
 
 a:hover {
   text-decoration: none;
-  color: white;
+  color: pink;
 }
 
 #logo{
-  color: white;
-  font-size: 35px;
+  color: green;
+  font-size: 50px;
   font-family: 'Pacifico', cursive;
 }
 
 /* Mis en forme de la baseline */
 #baseline{
-  background-color: white;
+  background-color: #00B2A7;
   text-align: center;
   background-size: cover;
+  height: 400px;
   padding: 150px;
   color: white;
   text-shadow: 1px 1px 5px black;
+  background: url(http://static.bofiaud.com/wp-content/uploads/2015/05/homme-stupide-702x336.jpg) no-repeat top center fixed;
+  -webkit-background-size: cover; 
+}
 }
 
 #baseline h1 {
-  color: white;
+  color: red;
   font-size: 50px;
 }
 
@@ -104,9 +108,9 @@ nav ul {
 }
 
 #logo{
-  color: white;
-  font-size: 35px;
-  font-family: 'Pacifico', cursive;
+  color: blue;
+  font-size: 55px;
+  font-family: 'Lobster';
   float: left;
   margin-left: 50px;
 }
