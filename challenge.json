@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "nom": "Glisse et bois",
+    "category": "nourriture",
+    "description": "Tu peux glisser ou mourir ",
+    "youtube": "https://www.youtube.com/embed/v_3QUBZKYg4"
+  },
+  {
+    "id": 2,
+    "nom": "Plus gros plat du monde",
+    "category": "nourriture",
+    "description": "Gros plat dans une pataugeoire",
+    "youtube": "https://www.youtube.com/embed/O-lEuISXXHs"
+  },
+  {
+    "id": 3,
+    "nom": "No hand selfie challenge",
+    "category": "selfie",
+    "description": "Faire un selfie en tapant dans ses mains",
+    "youtube": "https://www.youtube.com/embed/HJIGEVQ93iw"
+  },
+  {
+    "id": 4,
+    "nom": "Do it like Spiderman",
+    "category": "superhero",
+    "description": "Se jeter sur un mur en imitant Spiderman",
+    "youtube": "https://www.youtube.com/embed/cl7rfkpwZnU"
+  },
+  {
+    "id": 5,
+    "nom": "Chubby Bunny Challenge",
+    "category": "nourriture",
+    "description": "Mettre un maximum de marshmallows dans la bouche. Si vous pouvez dire Chubby Bunny ajoutez en un nouveau marshmallows!",
+    "youtube": "https://www.youtube.com/embed/yZ6jXVvDQq8"
+  },
+  {
+    "id": 4,
+    "nom": "Boyfriend Does Makeup Challenge",
+    "category": "makeup",
+    "description": "Laissez votre petit ami vous maquiller !",
+    "youtube": "https://www.youtube.com/embed/J66aZu8TTVY"
+  }
+]
